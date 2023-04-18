@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep Learning (Transformers, GANs and Diffusion Models)
 - 💞️ I’m looking to collaborate on Deep Learning projects in Computer Vision and 1 D Signals
 - 📫 How to reach me : aliarshadiit@gmail.com
+- 👨‍💼: Senior Research Engineer at Philips Research
 
 <!---
 AliArshadKothawala/AliArshadKothawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
